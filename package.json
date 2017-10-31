@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-screenshot",
+  "version": "0.0.1",
+  "description": "A simple Node.js application to take a site screenshots",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
