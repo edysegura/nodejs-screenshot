@@ -2,6 +2,7 @@
   "name": "nodejs-screenshot",
   "version": "0.0.1",
   "description": "A simple Node.js application to take a site screenshots",
+  "license": "MIT",
   "scripts": {
     "take-shot": "phantomjs shot-phantom.js"
   },
